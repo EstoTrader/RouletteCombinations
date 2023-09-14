@@ -1867,7 +1867,7 @@ int main() {
 
     long long int veces;
     int bolas;
-    std::cout << "Cuantas bolas se tiran por sesión?";
+    std::cout << "Cuantas bolas se tiran por sesion?";
     std::cin >> bolas;
     BOLAS = bolas + 2;
     std::cout << "Cuantas veces ejecutamos la rutina de " << bolas << " bolas?" << endl;
